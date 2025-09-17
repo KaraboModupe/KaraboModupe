@@ -61,7 +61,7 @@
 
   <section id="contact">
     <h2>Contact Me</h2>
-    <p>Email: <a href="mailto:karabo@example.com">karabo@example.com</a></p>
+    <p>Email: <a href="mailto:sirmodupe@gmail.com">sirmodupe@gmail.com</a></p>
     <p>Phone/WhatsApp: +27 67 228 0781</p>
   </section>
 
